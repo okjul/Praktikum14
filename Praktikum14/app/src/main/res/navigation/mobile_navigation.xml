@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_my_quotes">
+    <fragment android:id="@+id/navigation_my_quotes"
+        android:name="com.oktavia_19102254.praktikum14.ui.myquotes.MyQuotesFragment"
+        android:label="@string/title_my_quotes"
+        too
+        ls:layout="@layout/fragment_my_quotes"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ls="http://schemas.android.com/apk/res-auto" />
+<fragment
+android:id="@+id/navigation_class_quotes"
+
+android:name="com.novian_19910027.praktikum14.ui.classquotes.ClassQuotesFragment"
+android:label="@string/title_class_quotes"
+tools:layout="@layout/fragment_class_quotes" />
+<fragment
+android:id="@+id/navigation_global_quotes"
+
+android:name="com.novian_19910027.praktikum14.ui.globalquotes.GlobalQuotesFragment
+"
+android:label="@string/title_global_quotes"
+tools:layout="@layout/fragment_global_quotes" />

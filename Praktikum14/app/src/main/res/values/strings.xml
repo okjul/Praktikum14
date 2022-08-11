@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum14</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_my_quotes">title_my_quotes</string>
+    <string name="title_class_quotes">class_quotes</string>
+    <string name="title_global_quotes">global_quotes</string>
+</resources>
